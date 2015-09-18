@@ -1,5 +1,5 @@
 # squealing-meow
-src for mithilarun.com
+src for http://mithilarun.com
 
 ## Prerequisites
 * Docker
